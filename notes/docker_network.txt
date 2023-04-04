@@ -1,0 +1,33 @@
+# Launch the docker environment.
+docker up
+
+# Get details of running environemnts.
+docker ps
+
+# Get logs of a running environment.
+docker logs <node_name>
+
+# Get a shell from a node in the environment.
+docker exec -it <node_name> /bin/bash
+
+# List listening ports on a node.
+netstat -tulpn
+
+# Assign an ip network address to a network interface.
+ip addr add <network_ipaddr/netmask> dev <interface_name>
+
+# Remove an assigned ip network address from a network interface.
+ip addr del <network_ipaddr/netmask> dev <interface_name>
+
+# Add a route to a network.
+ip route add <network_ipaddr/netmask> via <hop_ipaddr>
+
+# Set Network Address Translation (NAT).
+iptables -t nat -A POSTROUTING -o <output_interface_name> 
+	--source <source_network_ipaddr> -j MASQUERADE
+
+# Set port forwarding.
+iptables -t nat -A PREROUTING -p <protcol> -d <target_ip> --dport <target_port> -j DNAT --to-destination <destination_ip>:<destination_port>
+
+# List nat rules, PREROUTING chain, with line numbers.
+iptables -t nat -L PREROUTING -v -n --line-numbers

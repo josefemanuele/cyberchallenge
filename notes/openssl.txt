@@ -1,0 +1,7 @@
+# Encrypt with openssl in aes-256-cbc
+openssl enc -aes-256-cbc -kfile <key_file> -in <input_file> -out <output_file> 
+
+# Decrypt with openssl in aes-256-cbc
+openssl enc -d -aes-256-cbc -kfile <key_file> -in <input_file> -out <output_file>
+
+# To handle base64 format use base64 command.

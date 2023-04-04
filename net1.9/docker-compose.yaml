@@ -1,0 +1,19 @@
+services:
+
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - 8080:80
+    networks:
+      int:
+
+  backend:
+    build:
+      context: ./backend
+    networks:
+      int:
+
+networks:
+  int:
+    driver: bridge

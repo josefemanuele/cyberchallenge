@@ -1,0 +1,20 @@
+# Resources.
+https://danielmiessler.com/study/diffiehellman/
+https://www.math.brown.edu/johsilve/MathCrypto/SampleSections.pdf
+
+# Public parameters.
+p = 101, g = 2		- p is modulus, g is base.
+
+# Alice's public key.
+A = g ^ x (mod p)	- x is Alice's private key.
+
+# Bob's public key.
+B = g ^ y (mod p)	- y is Bob's private key.
+
+# Public shared key.
+Z = g ^ (x * y) (mod p) =
+  = A ^ y (mod p) =
+  = B ^ x (mod p)
+
+# To generate Diffie Hellman parameters.
+openssl dhparam -text -<g> <p size>

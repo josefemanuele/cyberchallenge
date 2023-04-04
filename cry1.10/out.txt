@@ -1,0 +1,1814 @@
+[x] Opening connection to notadmin.challs.cyberchallenge.it on port 9032
+[x] Opening connection to notadmin.challs.cyberchallenge.it on port 9032: Trying 5.75.232.207
+[+] Opening connection to notadmin.challs.cyberchallenge.it on port 9032: Done
+0
+ Your login token: 1bc396a3196ba384edddf52798fc151a4a204ab6fb017849e6e720ab8e1ff0271d099bf51b46276d4e446b359064419f
+1. Register
+2. Login
+0. Exit
+>
+1
+ Your login token: 7fbdb8b4f70c75a61c25b2c7fd42f8c88e9256fb3b065d4d45e25d0b763adc0fb46827905d3e25cd10dc96c73da5afc4
+1. Register
+2. Login
+0. Exit
+>
+2
+ Your login token: ba86e27f97ee2475ebdbb0fb1e0d0d9167001a5260e271f37be36a4e13f3657117cec92e9981fec382a3aa44ab796dcb
+1. Register
+2. Login
+0. Exit
+>
+3
+ Your login token: 95cc54bb33a6569d98b57fa00ff65d91b40d1a316fceb01fd74ae8366389c76e880cc314c033a0f9cf600a6c97618873
+1. Register
+2. Login
+0. Exit
+>
+4
+ Your login token: 8770e8cd11939ebf9f55472bbed366133ac4249ce74e567e30ccd4ebc971675a14457f83f537d2d99c84e2c54405d022
+1. Register
+2. Login
+0. Exit
+>
+5
+ Your login token: 55809cffb1d2d53226cdb2a7c55607e4c3fe3e3199e475f27552c7ad52a3f0624455e620efca35cb8d79b8496360b212
+1. Register
+2. Login
+0. Exit
+>
+6
+ Your login token: 9f4578410737417e6fcd69904846733fee5afdde11a74fd42ab1990078e9291ab7179084269e1311a341e286e6964a8c
+1. Register
+2. Login
+0. Exit
+>
+7
+ Your login token: 60bafa1e3dc69457b810dab6947744f929ae037f0c0240a6bbd27e9138365a4712ef3cad520c4552dd810375fcad92b3
+1. Register
+2. Login
+0. Exit
+>
+8
+ Your login token: 61c0f9edb9641889cd6d98325a4c7c87fc9bc812405a086f405828a4fc7f6b3a3cf4a4112b255b709c0328493047ecaa
+1. Register
+2. Login
+0. Exit
+>
+9
+ Your login token: c756c209c66ceb6604e19dbc93ab7fb271744c8a714cdd55e52b91a5cdd3fab1be3c8051cf9e8135acf0b3ec287beeb7
+1. Register
+2. Login
+0. Exit
+>
+a
+ Your login token: 3ffd27c7a5aedc7a91b32fab3e2f9f07c849f9d7c4c829b2c1a23c035072655fd687a0f365f2073a883a50d25b4fc2c8
+1. Register
+2. Login
+0. Exit
+>
+b
+ Your login token: 61bd8d8958541a542cc0a29f9529f46ac6cfaf1dfcb6154b6ea15bc0789bb6356913dda2ef9e658735d174763b979aa9
+1. Register
+2. Login
+0. Exit
+>
+c
+ Your login token: ea379bce73ab2711633aa6eaf1a74cfbb8cabe55f45fdbb584f6dee5d4598a4cfbb211d932b8093de8ad098ab3dea7d7
+1. Register
+2. Login
+0. Exit
+>
+d
+ Your login token: cce7aaeb1b64ff57aeaf6c9041b01bfe4918cf17d5b5fb8a8322644e3c6373fa3a3c2a94cfca214bbdb4e8c05ed9ca9f
+1. Register
+2. Login
+0. Exit
+>
+e
+ Your login token: 624895841c541c4f0ec7430fb214fb0598dc7c8911cf38e03ba6d4cb9e273cb1c4aa076caad7b441ca076cc56e1fd63f
+1. Register
+2. Login
+0. Exit
+>
+f
+ Your login token: b2233568452db293959d123a47001e5f46f7076eeeb9e14e5acf24b2fcdf41e74c6d47c826e5cc016476931d03b0a740
+1. Register
+2. Login
+0. Exit
+>
+g
+ Your login token: 20d5aa359470ce0d878940fce628cfc16a52c841e588a2ae03627e171a97acd7ef8389be1ed94c78683cc0415ea289b4
+1. Register
+2. Login
+0. Exit
+>
+h
+ Your login token: b513383aa41c5df5339c06c162f4b8c7bd264375a871fec9e5cfae4298cce1d21de02d99fffce0946baa68faf5a59716
+1. Register
+2. Login
+0. Exit
+>
+i
+ Your login token: 71ce4f09a2589568fb7b5d34a20ad7ae2de9716321c97ed1c7f62a730fe395121514743d0e042e824d1fe25b88e18fc9
+1. Register
+2. Login
+0. Exit
+>
+j
+ Your login token: 56967d8f7a15d92778b8a1664cc054308f519d6f57017d2ac085d41eabca350b7dd10fb3a796c19dbdae2db80107b562
+1. Register
+2. Login
+0. Exit
+>
+k
+ Your login token: 77d53bfa50f14041f216a9e1c86829f944913cc453bf0a1a286110b49125383ffd3a5535b4cee5d03b957a31c04cbc8e
+1. Register
+2. Login
+0. Exit
+>
+l
+ Your login token: 7151725f3e2d4b98fe17255b23f2e2f8a0769046a77e4856c13ac5ec4169aa7aa6921df555ab7e70f70e75bebb1c4dbc
+1. Register
+2. Login
+0. Exit
+>
+m
+ Your login token: 3ff4cbf0cf6f34e2adc4598bcf7c5bbb1d254ea32c663df03407d5a90ae1676d167ca8f47a590d622679769abdeb2f5a
+1. Register
+2. Login
+0. Exit
+>
+n
+ Your login token: a58d9d4e272a0aab74a8cf5b23de4c7935ce570cfe60db887405d04a4ff649cc1852b310e140c10b640b1e26db626fcc
+1. Register
+2. Login
+0. Exit
+>
+o
+ Your login token: 76bca7d08b2248dfc2e5c473ef957c54bb6f09c50fb9abc1c9ba1b418c2e94da6fe1607e8af16b20a2ba3fd4c5d0badb
+1. Register
+2. Login
+0. Exit
+>
+p
+ Your login token: 5d353a5b0a4d4d3cd967dc7737ff674b41669873b5edf299f0beb535cbfa391bf4c3e954d1d84ed42dac5068103f72c4
+1. Register
+2. Login
+0. Exit
+>
+q
+ Your login token: ad77c624d972f5b6b82fb8044819e8cb7709c744b7c1849aec0776152eacdad9bed8f0b10b2a9fa540c1b620634e2162
+1. Register
+2. Login
+0. Exit
+>
+r
+ Your login token: 73b71817b99569bd58ec3fa44a26429c1a1790dd0376273212b98fa36dcff147c1c339ce4686efbbe34f1671e4c1a746
+1. Register
+2. Login
+0. Exit
+>
+s
+ Your login token: 2953b36fd75e61d7ed85e8879e27054ed8d5be313eed9748bbc7b5b10f435c8d091a5572b53d40b35eef1074f68ef19b
+1. Register
+2. Login
+0. Exit
+>
+t
+ Your login token: a79b1691e063a66d8918f42f49a6dcdbab0f3c578904fc461d4ff40661c1c9fb8eb1e170953c6358011bdb9d33c6fdac
+1. Register
+2. Login
+0. Exit
+>
+u
+ Your login token: f61f98ea5d3d5ada9102a885d40dc286bf0bd68ab51c82fe322bba7464e01517c3daee3886793e45942502a8bebff0ab
+1. Register
+2. Login
+0. Exit
+>
+v
+ Your login token: 0f76c4591e111bd3e6a2d71fce0c067c3ae0bcb85b45da8e933f1fb01dbef76d8ff2501385bacb17673c32d89530ed57
+1. Register
+2. Login
+0. Exit
+>
+w
+ Your login token: ee48696485663d2df1bd07b6ab4fc3ceb63ed8056d68eae93d12919d67be3b8336f6706fc5bc2339162e19ddc702d47d
+1. Register
+2. Login
+0. Exit
+>
+x
+ Your login token: d5b8b7e526bd0e27963cee77af3f70db04fa2f3f587c4f453fff036804f96072a8714190d6d529a717e3a877dce7c7c9
+1. Register
+2. Login
+0. Exit
+>
+y
+ Your login token: c9f34e30b0c277b3e52c278b008489fff456533c294b71d048d30aeb17dc2bbb03120bcbddf5e45dabe4db48ab476ade
+1. Register
+2. Login
+0. Exit
+>
+z
+ Your login token: 6c5851e74e74b65ef5515b0c4ca29e60778c61bbf63cb6cd0406eeb0d3332f1ef76435bb0b146ad4bce4ae64be1ca64e
+1. Register
+2. Login
+0. Exit
+>
+A
+ Your login token: 289218e0e1e47e17410d29d61c8c4254e5aad7eb596ef08a62a7d65bd901c786d3cf6dd9a091e01f3658f50498ce525a
+1. Register
+2. Login
+0. Exit
+>
+B
+ Your login token: 31cb6758c1799b49dcc59f173e54f17d9ceb66d4e52fabc25440526eadac79cd297a80d19b664fc0f669a08145bd07cb
+1. Register
+2. Login
+0. Exit
+>
+C
+ Your login token: 70be3703e5effc0d7ea3821bcfebb4c298f46cc689e5067da3721accd6d94a2d71bb305f4d394fcac989db692d1f0db3
+1. Register
+2. Login
+0. Exit
+>
+D
+ Your login token: 894563f4e9d84c1555169c6773762cb7452fbb1e9a136cfaf788500906a77129da782f8b7fc0f31a9b39e7464238b576
+1. Register
+2. Login
+0. Exit
+>
+E
+ Your login token: e54260ab2a3ff2cd0e72dd2d8de8270d1f4d2741c21f673f05f78cfdb2abdac2cb095aa910b6714ef708d00b7e8e71ef
+1. Register
+2. Login
+0. Exit
+>
+F
+ Your login token: 3879de8a3608fbdeec06ff94a45a11eb35981ce4c8e31c982beeec3135501be73d0c63158c596fbfd1a031758b33b15c
+1. Register
+2. Login
+0. Exit
+>
+G
+ Your login token: 4950215646f85dae9bd6de0df8c6a91f1471ed68ed5294b0fd4c519c6080e4ac5946db0ccf1675c28c079c5cc9c8878c
+1. Register
+2. Login
+0. Exit
+>
+H
+ Your login token: 4eeece57ae1e0f2c7be8527e54c9a9d60630ad227acdbfedcbacbdbdaa498686f5d66e096c48707a5270c92b1228df77
+1. Register
+2. Login
+0. Exit
+>
+I
+ Your login token: 1d6512298837dbd06c810f2b46f78099036f1f321bb47fc286b022b6e3ebedde83f4fc23b54fc224e62fdd76fcafdd96
+1. Register
+2. Login
+0. Exit
+>
+J
+ Your login token: cee6b8494e6331363088a08238b8c56823b1d260df7a4dc0662e00ac51bba3c4f26836df64e605e1a7ed92f013b16831
+1. Register
+2. Login
+0. Exit
+>
+K
+ Your login token: 519ee7904dc2cbf4b30d05f60bf65073c7a0bd4f9fdecbe3526514376ae6dcc74ad321e49062f72a18d89264b81518e1
+1. Register
+2. Login
+0. Exit
+>
+L
+ Your login token: 2d2d592aa0ce17c18421aa3df6cb0629236ab0187d96e73c355ae819d779a9cc9919378b4b093c82588c5abb4d96c172
+1. Register
+2. Login
+0. Exit
+>
+M
+ Your login token: c87fadfa988254f4bbeb0db2d9ea22ed8c54e3bd8dc30c6eadafa408c2b4a4198e8e089f1f73030218e3c373289f4a3c
+1. Register
+2. Login
+0. Exit
+>
+N
+ Your login token: e864f112d4ca4a49af24087cf1e67f134f73303ddeea8cc102fe65cad00d789ae9d30c136f3a62bea69a7676480e0c56
+1. Register
+2. Login
+0. Exit
+>
+O
+ Your login token: e4accd1aa5610c6589c47d49b7b18fb79df0a64e4735bbc612602e7a89d9aea4011ae1385dfe14104ddceaec38898af6
+1. Register
+2. Login
+0. Exit
+>
+P
+ Your login token: 90ff09e1f9ee3fc8114c0233b0a3957def5e10ae277c5f471edd8a756f70645f7f2ec010e047fcbe172c9e0b8d3a5215
+1. Register
+2. Login
+0. Exit
+>
+Q
+ Your login token: c3e71b092f2ddd778f8e345f7858e147aeffadefb302afa1b6393420b270a5c3a420266f24e557fda791983b5edecc12
+1. Register
+2. Login
+0. Exit
+>
+R
+ Your login token: 8a335f410ad1c390a666826f8888e3fa96cfdc904504e300eec9cbb4a15d9ca6b197e79672db7b9933a1c2b599c9fec8
+1. Register
+2. Login
+0. Exit
+>
+S
+ Your login token: 7ebe562349ee20b1a67a5d995dd76e9e9b10ea5b6083e7157d22787db61beef65cfebf9c7f897f44d3ffe4252d0ff16d
+1. Register
+2. Login
+0. Exit
+>
+T
+ Your login token: 8689508260c30684777c7a5d13bd8f8a1162723db2c096348941e9e4d17552c9e8a0d9783356a9d368f4bac1a12b42b0
+1. Register
+2. Login
+0. Exit
+>
+U
+ Your login token: de85492ef873e00a1e64ae5fbd20c6dfa20bacda991dd17dfaf982e395cc891ae3a46350767a161025f53df4304ee8d8
+1. Register
+2. Login
+0. Exit
+>
+V
+ Your login token: aca0b1b9145467ddf270d508ef62dbede5c01070b41e5d3f159d0b5a9b3d0e5325babdfd3db890d529afc61bac679bf8
+1. Register
+2. Login
+0. Exit
+>
+W
+ Your login token: 45139721aa745fd5d37bc209006f5657018cc1a0c5cb4aff56000f0c275ec22be017f19d219f79efba1e34944be2c3ee
+1. Register
+2. Login
+0. Exit
+>
+X
+ Your login token: cd74139251d7b6ebbff869e7a0e062caada0600a734ac52f2a48338638fda281be89f9010a0b842cd513220c9338e378
+1. Register
+2. Login
+0. Exit
+>
+Y
+ Your login token: f10d44d588c59263a8a119230ed337be1d757bc07913dd1e1ebb9ab74fc5a143379a2c6a929f994cd0ec09c1796577b3
+1. Register
+2. Login
+0. Exit
+>
+Z
+ Your login token: 0840c0006bb12bcfe2a9ee4074a1dea92dc59e2892685bebf5aaeea7a27976b3e72672734a07bd603b38fea9546d0c80
+1. Register
+2. Login
+0. Exit
+>
+!
+ Your login token: 4ffcb3f554ba4f036142ebd972a69f11f19afdc844652bbd5dedb305a433860fda655b9da3bd16d15776d136a49f9bc1
+1. Register
+2. Login
+0. Exit
+>
+"
+ Your login token: e6eea91613e8a0fadfd6d665310701d13f9ecef28fcb83b47b1fc25787822f14800357c20edb162b3047d69651340ed5
+1. Register
+2. Login
+0. Exit
+>
+#
+ Your login token: 00ee52806cf8fc985bb49be40eb310b60b3bc77de049f4a0779bcea5afe1cc95051211172f78bd301c9ac018500feee1
+1. Register
+2. Login
+0. Exit
+>
+$
+ Your login token: d12efb486eca8d5d566224e061bc589455e1d9e4da6e98ce59facac8fe2c44af0a21228863a5bb0b3c6d3319ace50ffd
+1. Register
+2. Login
+0. Exit
+>
+%
+ Your login token: 10cd85cc5dee1e4a4bd96de4b29f18fa1eb00c9ebe14346d2fe2d7ab01553c586bf41785a096109cd3b10f4d2370689e
+1. Register
+2. Login
+0. Exit
+>
+&
+ Your login token: fa7028f9b6da9ed350d13d2963c8f3bd29ed9dce6cbcda2f7f3a52809f27dfded6a8770abfd1a41fe5226473d0cb4ff6
+1. Register
+2. Login
+0. Exit
+>
+'
+ Your login token: 66d30df0ad809bcbb1459918fb9ec4b808e2b5b4ea67d63209885d041113a49e1167f80a9ec590422eb8ef2e6d849d45
+1. Register
+2. Login
+0. Exit
+>
+(
+ Your login token: 4701d06a92b07bf4f70c7c63e099ab7548ca06d61e79722e14b788491b9d4753b84f9638d1ff3e8100be4bed7cd495e5
+1. Register
+2. Login
+0. Exit
+>
+)
+ Your login token: ed7a39642f5a1f303eea595e3ce1df56a0be8d4d25fd6686b3a8fa8e25b3dd07ea31ff4f2820960aa278e20fce5862e1
+1. Register
+2. Login
+0. Exit
+>
+*
+ Your login token: ce8f34d795e4b3ab47b4e655b07a7102315c8007c857be01755263aeee07d42b60a7296b44efde6ad18a2250591c1461
+1. Register
+2. Login
+0. Exit
+>
++
+ Your login token: 23f08bdfbe93ba7deaaf8112d9b8b5c6662b87e73332fdc08f93ae4aca59fcddc337ca740ed9e6043ad6cad1a645f8b8
+1. Register
+2. Login
+0. Exit
+>
+,
+ Your login token: 4c2c913ce2bb93c2c25c594eeded991e6154d9243a7c39fd021eaef807b97a195184350802407f396f187cb85c773f5c
+1. Register
+2. Login
+0. Exit
+>
+-
+ Your login token: 0761a65c6f76a5b5a19b07880a2e4e9927061656ca08e82bedf81d6e8f1524c0734b86fc77021cdc976ed9f34eb3b7de
+1. Register
+2. Login
+0. Exit
+>
+.
+ Your login token: f9bafc2c6d0f51156c20e1cbcbfd9fa7843457829e9cc76d59f2f4dfb8fda2c1e5b60e3d24ab887548ddce5775d0b668
+1. Register
+2. Login
+0. Exit
+>
+/
+ Your login token: c5979cf4e98bdb5fc7ff74ff3563e7884e25f98f11569bd052efbf7ff302c9d2d74382ffb1512f49d9257895ac1422f4
+1. Register
+2. Login
+0. Exit
+>
+:
+ Your login token: 63557f5cd58d9891a4d0f0fb589937015b435974ac9251dcf68ecd3fbb2311e61ddceb8ece078aa467f0ba3ab97ab1ba
+1. Register
+2. Login
+0. Exit
+>
+;
+ 1. Register
+2. Login
+0. Exit
+>
+<
+ Your login token: 4207499d159073e6eab3c59ea8272ed365e91aff608f58615a6bd793e49c42bca36ba68aa98a86cf85fe96182f7b8bba
+1. Register
+2. Login
+0. Exit
+>
+=
+ Your login token: aa2316000d19b0b093d889aa6bfdf075bb0590b97000f72303d3f430ba3252fdfddfcc50c5adc7e7b772e63fdcf8a77a
+1. Register
+2. Login
+0. Exit
+>
+>
+ Your login token: d33b1240e9fbc4fee16c086f47b8e2cd1ad63cef3e9381400cd25548588b905247db42aceef210f6280e15d4cc2e1b36
+1. Register
+2. Login
+0. Exit
+>
+?
+ Your login token: ad251429467094f70c4c99c8270f9c94ec09f0ee58ccb856404cdecaf97e84325a78f7dbbb9d69fad6087cbb1db03da2
+1. Register
+2. Login
+0. Exit
+>
+@
+ Your login token: 239fe043101eb9debf88a18ea0934d01a90988cfe24efd513aae7be95445c905a4e2107e2dea3dd99c6eb50d096abfc2
+1. Register
+2. Login
+0. Exit
+>
+[
+ Your login token: bd683e0055a86abb95c387a69a8da4212e4a426bd6a7aa6446d7d7acbe5a422aab63bf1dd3b72c531266beb1b063315f
+1. Register
+2. Login
+0. Exit
+>
+\
+ Your login token: 212fc0a8adc9ee0a914aaa907f72fe04a3e0521376dd1ff6d932025f17b54cbcd673b3a5ce697abf9f864c70522f5ebe
+1. Register
+2. Login
+0. Exit
+>
+]
+ Your login token: f85a5eaa8ee08270d458feeb4038c81825fadf7b6507c8ae97fd816ac0e9ed1fb0c40048a8f97f98bbbb765ffefec878
+1. Register
+2. Login
+0. Exit
+>
+^
+ Your login token: 35f222c7c9372be77a07c7503d5d368269937408bed1f971b16dd78e10aa1c01a7ac930a1c889f11fb65e84bae5c74da
+1. Register
+2. Login
+0. Exit
+>
+_
+ Your login token: 7db2dfcaad781d8edfa84f612e8f8ce012dc6bb517eac463b3eaaed3162095d3efafbfe719ef8eb9cfd28fb607a691f7
+1. Register
+2. Login
+0. Exit
+>
+`
+ Your login token: f0ce83c4a2e6010c4547399b74ed99753e3f4afa406606e37da203c49ccc12cbd98cfadeac1c4c453e6346bfa28a0986
+1. Register
+2. Login
+0. Exit
+>
+{
+ Your login token: d80fa18ae34dac513d5299b99ed2dc6c2d0c8e29e1c4b525cc5c0dbfb8195091952c8e1d3151f7d84ccb9603278a5202
+1. Register
+2. Login
+0. Exit
+>
+|
+ Your login token: 25e856292bf1db30c444e0f393bb45f8e248e5e07bf531213e5a3f3457e1c7f990a41dad14f10f455aae892a4e0ed587
+1. Register
+2. Login
+0. Exit
+>
+}
+ Your login token: 4a084a41ce8776e138c61f73d4eda3d507b57616c9df6e945cbda7429315c2152206f8fc1131f527ce3cef4b17a9cdf4
+1. Register
+2. Login
+0. Exit
+>
+0
+ Your login token: a0f83f19b857c1ce54d6e25119c40f0d79c58fcc104a79a6818f3dcfa4ffa2dd5b4ca3771a77d4db146afa605f3a3c0b
+1. Register
+2. Login
+0. Exit
+>
+1
+ Your login token: 0073d38fef17c5842b515391d7987fa2b178fb7b1a667d31e4f884b227f0ccc50f25015ee9c65da7cc5c59f16104e1f3
+1. Register
+2. Login
+0. Exit
+>
+2
+ Your login token: 98c1866af628381a65276e59ff635c94d86498ac01e0ead864cc22b6f45984e8ebbb0ae3f1e860a87ed0364a480c105a
+1. Register
+2. Login
+0. Exit
+>
+3
+ Your login token: 4e3b6405ad66ab41c69699122f7124df079289e725ec45e3b18ec530787025425aae1e3e59a7504024367c82845aae43
+1. Register
+2. Login
+0. Exit
+>
+4
+ Your login token: 79d0bdec29e6d5a850fea26498c1cfa7f821f635ed1cd51c19d175285c614870ea18f0c46e2ede27ecb74d15c8a9d14d
+1. Register
+2. Login
+0. Exit
+>
+5
+ Your login token: 01e83e25c1566b60306ceed58ff3913c4ab6a1c0b730af9cdbca6f612114f71f7a683a8a37fadc5e849759e13b19954e
+1. Register
+2. Login
+0. Exit
+>
+6
+ Your login token: 9ed77a9617d50124b2afcdb8112b9f0e3c3c35069cc29ca18e108a61018a20107076a8d6d1b5bfe2789175d4ab2a4bf1
+1. Register
+2. Login
+0. Exit
+>
+7
+ Your login token: 2190a6fe4918035566b75a0df5589c09995d9c17806d178eca7df28e49de5bed6af8fd30f29dc594d4c952d9ef00432a
+1. Register
+2. Login
+0. Exit
+>
+8
+ Your login token: e5c2329abfae546a3edc2440eece0204ea9472746f0bdce24c3f0d1cacdb17d65d66cd78b8ab30abb04bebdb80db97a7
+1. Register
+2. Login
+0. Exit
+>
+9
+ Your login token: dbd4cb8eecd6d0677d57b336d49c796af6c1d663042984c0658fa80a0984b4dadef309cdccbc7afc55bd9c6ab9a2a24e
+1. Register
+2. Login
+0. Exit
+>
+a
+ Your login token: 7bebd7b7440715fe3cd7d310a068179d9387b10d5acd0f8ef0d24920bb353e1b4fa47ddaee9725e22dac12fc614f1c56
+1. Register
+2. Login
+0. Exit
+>
+b
+ Your login token: f97b688927f1d9a13bc1967229b0549f0024514e2f3fc751c953cd6aba19fe94bc8493ec9250c3d649015b1e57c6e790
+1. Register
+2. Login
+0. Exit
+>
+c
+ Your login token: 9ba45c134bbe228a4473d5f9824cd896978bd99e5c21cc3fa32142b0d0f1364fe14f0d1167a8d90a82e26b16d319c9de
+1. Register
+2. Login
+0. Exit
+>
+d
+ Your login token: 46ef67328d98859dc87fefd262ddb6e1756e83a6ee84b5a4e7c1e17d1ace9534c2b9e39e138b2f3c6cbf452f00552a22
+1. Register
+2. Login
+0. Exit
+>
+e
+ Your login token: c22604c6f578c1474ddd00f03c4214100bbcc7e4bc7135530236accca61eed090b1d310b0a826d330dc3077a255739da
+1. Register
+2. Login
+0. Exit
+>
+f
+ Your login token: a4c889fdf291371df9e1d3c74a4352a9fdfb53e25843eb773015591911980277c736de22bc472946a9708f982fdc4e85
+1. Register
+2. Login
+0. Exit
+>
+g
+ Your login token: 5275770f1abdea118c1dae9a6ef91539fde37fbfe926ba6aef6534709d09f441c90e2977c2d5413305b045084b042b8f
+1. Register
+2. Login
+0. Exit
+>
+h
+ Your login token: 73fa2d778b6458a91e80197aff2de663a756b94f761dc83585d1b453ada0e6070086bc55cd6d4164cdc95ec2815f63b4
+1. Register
+2. Login
+0. Exit
+>
+i
+ Your login token: 0dbe01f9b21e81ad3e48d20a549ea5ff24e1047a1d58d3555cc38fb36dfe90cf8764a6906f55fd156e90b22abdb31328
+1. Register
+2. Login
+0. Exit
+>
+j
+ Your login token: ce0d9a196a899a0e2ecc5fc52e1ce5d90721cb71cda46f54cdc525f343ed9f1dca7fa39e8c32b76de6d97a1057c2a279
+1. Register
+2. Login
+0. Exit
+>
+k
+ Your login token: 950b67c2d35aaa567ba88b714fb10203d7b31ca06f2104f61b753f86bc31b2641483848faccd1a411e24167cba6a3d19
+1. Register
+2. Login
+0. Exit
+>
+l
+ Your login token: c8f3171268ceae64cec5182790f306c932433112a3ceae61f03f64889a30714c2ed3de2937a1da618460a7174ec1d2cd
+1. Register
+2. Login
+0. Exit
+>
+m
+ Your login token: 5bee84056e0f3e5929d06d9974f19ffaedd30ff1097136152a5b5193091c335fc1f94e1b386720da9d9cc9e2ef198501
+1. Register
+2. Login
+0. Exit
+>
+n
+ Your login token: 1a28911b74351326dc9e69a132f9edde0f3e40fac0a1fa30c13d20dd82c4d5adf1b4d2550e2de4067eec41571a4479c6
+1. Register
+2. Login
+0. Exit
+>
+o
+ Your login token: 927d31d494254f2b90b3f44c2c06454d60a92311535df84af39e4f0e41b51c12f29812c06170b2033c617263dc1ec75f
+1. Register
+2. Login
+0. Exit
+>
+p
+ Your login token: f4138df041bc988535066dd9ed843a5ecdce06615b844a9f79b683c084c5aff3fb7475c223dda8ba4e65aaaefb76cf4b
+1. Register
+2. Login
+0. Exit
+>
+q
+ Your login token: 46332bdf85bbd16670f2509e25653c9d8fff587e1082f795c74f20c5adbdda3d9284db9b9374f191c8861dbb5b6a1e95
+1. Register
+2. Login
+0. Exit
+>
+r
+ Your login token: e61c11a4676629dc4600096fcd19941d159a295f2c366208b23f3d396610355a11feedc45d1c95249d26641b48e9ad68
+1. Register
+2. Login
+0. Exit
+>
+s
+ Your login token: ef2cdd93f1751e308f6b5796a4ce8af75c068269d9166bc22a2c0d1947c0cbe101531fde28fe894f8d3f802a34a96799
+1. Register
+2. Login
+0. Exit
+>
+t
+ Your login token: 5fd2953aa32e3e3d3a8e37d5d466a6cd0ec0ea11edfc7b95a1c043b790c2175422398179b431b10a1ddeba3ae21c66eb
+1. Register
+2. Login
+0. Exit
+>
+u
+ Your login token: f8d5bd5490f81ef18ca7c9f18b9eda78807acf7fa10e12ba2842fad6782202140178e9ae80df1240dc4632fd7f2eb4d1
+1. Register
+2. Login
+0. Exit
+>
+v
+ Your login token: ee0543db5c0d7cca859f00948b7f8c7a7ae9504eda011852d8905ff511bb68fd35309d06362de1f13766b01ec4d80a43
+1. Register
+2. Login
+0. Exit
+>
+w
+ Your login token: c11d6a6a7bb306940f3a49983be4a42e5ca635f7f30e0c21d98116ee0b97884358a39574d14b7a805ab0494e65fc2c31
+1. Register
+2. Login
+0. Exit
+>
+x
+ Your login token: 6140df988e4d019b32a6ec5116ce98774ed117e5fc94e7aad0a73adc58bbd58c7db61f10499bd3f5814958742c7079ac
+1. Register
+2. Login
+0. Exit
+>
+y
+ Your login token: 5d791cabfa0a424bbfc07df3cb1e693ad3279942ecaa7b1e8c7500c9e74c861c8ad2cab9e05df954538c206fc70c3321
+1. Register
+2. Login
+0. Exit
+>
+z
+ Your login token: 7214abf2a3e0374663a100b22ae5304b76e30a5dbc24cc435c5de9a41201cccd6a989399635d58d0df3f1d7e75af5ee6
+1. Register
+2. Login
+0. Exit
+>
+A
+ Your login token: 8402b85511fadeb9637bbbf34c5aaee31f7f446cce5928944a22b786a815b81cc1de497ab8ef6ce0c32f414506d73808
+1. Register
+2. Login
+0. Exit
+>
+B
+ Your login token: 946e7dbfb70971cbf84a4e182dc75316b4c07be8dd031424e3b3b969e32614af9e70d826218c6ef3273737ea6a13d086
+1. Register
+2. Login
+0. Exit
+>
+C
+ Your login token: 6f905df3034a3f0dff51954340f28f240867345c839e8d64e9bc882a26a689518c2c480e23082aa647fd4b1ca3695cb8
+1. Register
+2. Login
+0. Exit
+>
+D
+ Your login token: e3599fa53b344a0f994e0eaa5d3f459af8574b73343a3dca181489e5c9d04bb8c7c1ce17bf445f6b2b3936f86ae4d7f8
+1. Register
+2. Login
+0. Exit
+>
+E
+ Your login token: d932a9d8589709f7e22c001ab9da947f6ea49a20babcd6ca9f1141ce47cd0de8007fe3360033c31abd643ff20e57a010
+1. Register
+2. Login
+0. Exit
+>
+F
+ Your login token: a85b4f31343ad8da6622570855646f030d8a3bc2f3881c596739259bbe24c82e17ff70742e6b31a4937d5a6934db2532
+1. Register
+2. Login
+0. Exit
+>
+G
+ Your login token: bb057a8aa59a1ff1809dba428559ee0f33f7cc248e2e2bce9d956fa49ea702347356093039e0eef08281cc898fe7b285
+1. Register
+2. Login
+0. Exit
+>
+H
+ Your login token: c16e497abce315b165b0d03e58c5f7ebc23a798590f33b6ce7679c8f1eb181e0aae7161a577784c9c310f46c7cb1ce6d
+1. Register
+2. Login
+0. Exit
+>
+I
+ Your login token: b0c2849d0ca5d0397c5a0826979c5b4ed3dd6a21b1ca816334ec8f4fc3b48a8add539a5cfb68a5774f9f15ce96583f01
+1. Register
+2. Login
+0. Exit
+>
+J
+ Your login token: 6787644dc12c3bc7a3f32c121a147da29a3e516e47b1e905be700727c741e0d02a1edc120d896eec5416f95d2eedbe35
+1. Register
+2. Login
+0. Exit
+>
+K
+ Your login token: 81daa90b5605710a2d3da3f23c90e0ce0d71c6952e582d75cbcbe1432a956af10b44286d31feb6a8dd95755dc9846880
+1. Register
+2. Login
+0. Exit
+>
+L
+ Your login token: e504c583886d8916562aa9c37acc415019b4b3f9b09cf291b4985a853828649864f9cb70edbab561f441b7e9d644eda4
+1. Register
+2. Login
+0. Exit
+>
+M
+ Your login token: d274a89e95453f30a706e93998424752bc6ad39edac86820abee72f5cadd83ee6aac4450f0e7dde0eac8a7284b18aafd
+1. Register
+2. Login
+0. Exit
+>
+N
+ Your login token: 8d88df67e79ee8ff58bf5a097793aa4878eb179fda4046a047d3b1ef106a3f53e5f6b9a0705723f8b60e609374346613
+1. Register
+2. Login
+0. Exit
+>
+O
+ Your login token: 35b25322871695a76eb0e01d338cfc493071340c0a27296c1a41c5a60eb70afe0620b37435a50ca8ea7e539440f4742a
+1. Register
+2. Login
+0. Exit
+>
+P
+ Your login token: 1e4fc87a39edca97fa3c25cd89411c96db1a2300c067930a23786a5cd671951622d8218355707e1b0a68717340c3b114
+1. Register
+2. Login
+0. Exit
+>
+Q
+ Your login token: bc3a39b165d63b170b8b64fda10f169beb94616e6b3dc79f407f2e30455e3320f71b0dbd2637168cfd40687a94aed9b5
+1. Register
+2. Login
+0. Exit
+>
+R
+ Your login token: 5fbe1228b4ee567c41134d8325b4ff22661ca7d8ff27b016ffb4a0a4803d3af76c375362e10596b2b397e270e133979f
+1. Register
+2. Login
+0. Exit
+>
+S
+ Your login token: 84379c6b9f5990f51a3378d34af9551e4d0939beae25714c1de6206426943fba58d378098162e7b3854819732ad31a99
+1. Register
+2. Login
+0. Exit
+>
+T
+ Your login token: 5bab25b4758bb34c806c136afd4f3449672728fb869eaf2444ac59a9b35902c36bdede37a615a062938aee614c947753
+1. Register
+2. Login
+0. Exit
+>
+U
+ Your login token: 262173c32cc0e4c065c0b644fdcc8f9fd7cc67e97125641f16c3063ec880782f5ca1cbaca987dba8ad707820e6aa290a
+1. Register
+2. Login
+0. Exit
+>
+V
+ Your login token: e7df137d339dde62cc77630f8a13d731fa600cb9a13934c4ae825305fbde7c06ef6a75a72826118284097584bd723bed
+1. Register
+2. Login
+0. Exit
+>
+W
+ Your login token: 4a0f47f24992a338bc828ef450e7c78361857c255b60201c8909083f50bf46894a68c9c658b36d3f0579452b39fc32a4
+1. Register
+2. Login
+0. Exit
+>
+X
+ Your login token: 1d8bfa6772d597141886d62615283a901e7f69f00613be3836d6101fc6955cb084b9e1e398cd2db8b4b1f7b908a9cadf
+1. Register
+2. Login
+0. Exit
+>
+Y
+ Your login token: 19a334dd9a02f47f7564ea589e0435dbb5449201b1ea9df5ca5f0cfebe2f58fe9ab14b4efbf83bc9d081b2663d9d0a3e
+1. Register
+2. Login
+0. Exit
+>
+Z
+ Your login token: 83a8ee350e6cfeb7c9d8432c15969c8b7e04e3015c94a861704c5b60eada8bc4d765bce21cb260f8443934b2b18a6683
+1. Register
+2. Login
+0. Exit
+>
+!
+ Your login token: 860f91ebd90f4391bbc5452fdbf3bc43e5b2728cfa82cbc7c9a5198c0b80bbe2a4eb73f842687c3e57575340678d9b7c
+1. Register
+2. Login
+0. Exit
+>
+"
+ Your login token: c465159eb8cf5a29469326df9a2c6434f1aeaa588c0f27633a253f0a0dca444c77c1bd37999667bb46fe45d5a5ddfdc8
+1. Register
+2. Login
+0. Exit
+>
+#
+ Your login token: 46292133a38a80a64b1aec94c4f2801c10aa37a0d0d1f0b58c8597d9013293f4f1c7e7f800b6a455f64381f0e1e3dcba
+1. Register
+2. Login
+0. Exit
+>
+$
+ Your login token: 2bfda0b5abffdd4d2bfb29cd4ae74cc0195f32a6a0b037815d5170941b34d27cf603b3d601f66f0a407d6938f73515a3
+1. Register
+2. Login
+0. Exit
+>
+%
+ Your login token: e22a7a414bc3a9f848aeae5755d296861a65cca3ab90a8c36e802345bfd62f452ff7a296b6660c706940583c3ad53345
+1. Register
+2. Login
+0. Exit
+>
+&
+ Your login token: 3704b9a46bafd9ff91d8b3a4c0b824681381aaba21033fd792d31ffe754f0508225eccea498a344ed2e56c9862fcf9f5
+1. Register
+2. Login
+0. Exit
+>
+'
+ Your login token: 3bf2038ac703f13fecaefe7bcf5f9e816a10a2203c3c7f4445d14a240dc71f589c5721dc0eae2a0e21f5aaf8ed7836fa
+1. Register
+2. Login
+0. Exit
+>
+(
+ Your login token: 5de8461c536e739b7b206dc3274ce97e39955e3461d637007c064b8689e26bb54dbd7079d39b9630fda862acee4881ab
+1. Register
+2. Login
+0. Exit
+>
+)
+ Your login token: 7f9616018d9d5aca9cc51764d2231314f6fae76541dbfa43914f2704908ff94c14a1cb4e359a24d59e5d313d3355668c
+1. Register
+2. Login
+0. Exit
+>
+*
+ Your login token: 405e9e7d4a1e056895cb29c3c95958129f6cc7ee816387f248c2285d8005a50226c5ef1359d02ae29c83fcbcd159aa44
+1. Register
+2. Login
+0. Exit
+>
++
+ Your login token: c2bf375bafa017f784182438aea8ecd907f060edb76043c4f72ae3691dd8cbfacb10862f0db49253af62d457ee9553c4
+1. Register
+2. Login
+0. Exit
+>
+,
+ Your login token: a8d215b8be4eba1280398b66bc5e6318be101cdc4d4bbb22ec711170301d8ba8f292b4d089b58591a2668109525201aa
+1. Register
+2. Login
+0. Exit
+>
+-
+ Your login token: cb991f97bbce4b217a59b4d128c40c1a75a6a5fceb6b1246f6ed3a2ce17040ff6a6a33fc33f9e398f24c31b8772371e5
+1. Register
+2. Login
+0. Exit
+>
+.
+ Your login token: 98c59eeda74f6c45f32564dfc2f12a5250648fedd3dac1fce3e46b49f78e799efd9964d504bbf9fa2c2f1c2bb25324b8
+1. Register
+2. Login
+0. Exit
+>
+/
+ Your login token: dbe678460ce741e8ce717f71c6656e668c17922ff7b8f0a38f3bd619c2f645a65ccac2e4e0be481d751dcb842cb04bbd
+1. Register
+2. Login
+0. Exit
+>
+:
+ Your login token: 0537e388a27a3ed48ac9e0c794617cb0f09fbcd187ed7d346c221a6caba56f3148f9dd31c6f55543aad43386bdd5364e
+1. Register
+2. Login
+0. Exit
+>
+;
+ 1. Register
+2. Login
+0. Exit
+>
+<
+ Your login token: 0f1b398786a81c53d960ae474120404a226d434cc10160404db871ba74c648b0553d2970b6cebb9ab0159066d1b504f2
+1. Register
+2. Login
+0. Exit
+>
+=
+ Your login token: 317484b589689a61cb057297ac4c2acb78d8d3e667a0266780a6308c05e3316051800fe0a4a640a3b6819a0cd711a2fb
+1. Register
+2. Login
+0. Exit
+>
+>
+ Your login token: 4e9116b68e3e11157c14cb0c75b14e9138a7d81a915a27e681e5f338f0085401f6eb5b27f305059a0f6e010da5db11f7
+1. Register
+2. Login
+0. Exit
+>
+?
+ Your login token: b20013652eefdba821d436ba99aeb569d392dfa15ae7a9e0e1cc450a3a336bb401f78d19c203788f14efc95a93b3031b
+1. Register
+2. Login
+0. Exit
+>
+@
+ Your login token: 0ee56abad40870ee25d6de0a78e4cd0aea57d0231ffca39c86edfaa56416926e27a0ef73e66274eac45a05fdafcfe3cb
+1. Register
+2. Login
+0. Exit
+>
+[
+ Your login token: 083dd1e8d4b3abe5516a3dc807a97eda6c2f9b4721c80d54530dbae409a69430561680b574d8c462f7cfc0ca227ec8cc
+1. Register
+2. Login
+0. Exit
+>
+\
+ Your login token: 1c7a10d1d4945abb75e381a7f1124dc6b63576c9c0e31d147024ab3db2ada4b1f1c0f90b7cd6a87585d455b30d296db6
+1. Register
+2. Login
+0. Exit
+>
+]
+ Your login token: 6fe27ed19fd73330720729229062211431bb8405dbd5f56d365a4560326e96bb39bf8b6190050df2291e7781abf7a794
+1. Register
+2. Login
+0. Exit
+>
+^
+ Your login token: 7419e95ab333c9ac0558c2bf406627c9a2179c42a687849f9d64f85bacf60e06eb12acca49e75df46310d173412ea999
+1. Register
+2. Login
+0. Exit
+>
+_
+ Your login token: 9b10da63bab13bbb0d49e08b567d66f6f3245412516483313ddfdf8031291b119a442bb20627e3b28daa4001ae866ba1
+1. Register
+2. Login
+0. Exit
+>
+`
+ Your login token: 6b266c54a0e217f462632999274906f01010fb8944834f9468b229d641a2aae9aea3cbb104015bdc89d100e8f8ee773a
+1. Register
+2. Login
+0. Exit
+>
+{
+ Your login token: 34417689486c33b9862acd68fc36d05acd63b9ac6b45ad4001db27d66e46b6e6c864fcf6e3b665226bea9ca246aaeb89
+1. Register
+2. Login
+0. Exit
+>
+|
+ Your login token: a99c96df46cf78e93bd49a73c208757a96587687030081859afed0321c622a4dd9a6d2053360ac8c739f3c6484c8c4e0
+1. Register
+2. Login
+0. Exit
+>
+}
+ Your login token: 5ad105907d40305e31c978965429445247bf1ab6b57d5b54bfc67c636aeeea83eeb96a7ea164985d39132c519987012e
+1. Register
+2. Login
+0. Exit
+>
+0
+ Your login token: 7d64f836f35e10c2ce721e95cd85003b551376cf3e72ba7fa47d4317121689222a4c741ca7712659d323dc2c07fe3689
+1. Register
+2. Login
+0. Exit
+>
+1
+ Your login token: d25c01c24ad96a34774f2c3551d997b783570bd4898df14732f116fe16740db29c13b152f5e4132719a4da5c8bc11434
+1. Register
+2. Login
+0. Exit
+>
+2
+ Your login token: ee7382dd41a37a3f7f105f544bed2ff68f9d9468125f2045d4f76ee0aa8a154f6b7d3678558a4bfffc03ab7e4a97c98f
+1. Register
+2. Login
+0. Exit
+>
+3
+ Your login token: 60abf59b798b0b0a49b297372abc4a1fd577b1e1db6be90f64ff55c44b11d8d6b4b8188cd09abfac949d2e9040d405e7
+1. Register
+2. Login
+0. Exit
+>
+4
+ Your login token: 20a13dbe75c44c76b1651cfcb22a2d77bf274ea261091950df7a61b2f4d967d938231fc58bd4b84bbc93ba8995884e5c
+1. Register
+2. Login
+0. Exit
+>
+5
+ Your login token: 76797547101e6b0929e1ab9bbce4f6d7ad94ff8805ce50e2600023212d26c01f636e2be1a7163414759f141ac0e2e4a7
+1. Register
+2. Login
+0. Exit
+>
+6
+ Your login token: 91bbe8d30c34808169156bf5832ffc59ccb6ffe8a26e9c74d83e89e6b21a04408f12d5b7026976e3386a9431a77bfe2a
+1. Register
+2. Login
+0. Exit
+>
+7
+ Your login token: d789aa533f358bff39e4fde9006bd402ec65a4197e4eb16d2882868a9e6e4ded49bfa082d116f6ba914374e9124c369a
+1. Register
+2. Login
+0. Exit
+>
+8
+ Your login token: 9cc8e74625a6e214aefcc15ca9a118306a0ba9847f29deda6e4619bd7a32a60408b08924726ae6ecc43d5ed36a86d4ab
+1. Register
+2. Login
+0. Exit
+>
+9
+ Your login token: e442907efe93022f762ac5d6b06cdd8bb0d03311a79b9ffe74abe517b8f55c092368659659420a1503ada195c42cfd2d
+1. Register
+2. Login
+0. Exit
+>
+a
+ Your login token: 8f962b6406902bf2ac73caecf8a7df5dafd93a1a7115edc29e25957292890e552db40e8c130fe3d0a67f229f8a6727ab
+1. Register
+2. Login
+0. Exit
+>
+b
+ Your login token: ee1cbfea52798a568be768301d76e1f53ffbc81f2b481191246e1f2db24255ad1b7472a8f136a10002a52d8a78a75e4b
+1. Register
+2. Login
+0. Exit
+>
+c
+ Your login token: 00f273657bdfd96026e36a89f0799afa2d867b066ab4cfeb990b8f7c4b1086b491da253df59833f67707abbb328c9308
+1. Register
+2. Login
+0. Exit
+>
+d
+ Your login token: 61aef34ac6024cc90ee159e0101fd519b48004027c74baa184e8c7dd2fd7dba1d200e3d7e732d58187c2d333226fac8a
+1. Register
+2. Login
+0. Exit
+>
+e
+ Your login token: 45d6f4fab928fe794476fb03534922247b6d3965bc550d5f9c7f4f41cb358c8b3ff5dc0e9aa7db754d80a2d649319959
+1. Register
+2. Login
+0. Exit
+>
+f
+ Your login token: 791e55273963446239c4857f520e93489edd2aa6d852ddea63751a8a160bc1ba0a2e54ac795b9fd364876a52c97ca09f
+1. Register
+2. Login
+0. Exit
+>
+g
+ Your login token: fe55c627ad02db393c5e5f234b22f24ffc46d85d546ef79352014e1973b8ee97358cb317347214eda41ff6d7d32c1ce4
+1. Register
+2. Login
+0. Exit
+>
+h
+ Your login token: 85a93d3eb5f84538f94b852094614a8d6b89c06b4fc633ec8573dca8fb9c90a9b6fcb33fad6eea6fb8b41d89eed184ad
+1. Register
+2. Login
+0. Exit
+>
+i
+ Your login token: 2bd1efa3e1e846b7ce0702eff96c6d25a00896f5275855557e2cb55947ea088dacb2bc3a8be3f6293df74f5f3ad839b8
+1. Register
+2. Login
+0. Exit
+>
+j
+ Your login token: 986c2a9d8922c3feceabbc363cc6c338ca8583f304fd6ccd4923b5e9ae28692cae00839ef7ddfd74bee43bf1924601a4
+1. Register
+2. Login
+0. Exit
+>
+k
+ Your login token: 46053f673058d8e9c4fa9d43183ca9fe53e5e094d9b80d82cfa464e838939aa397cd29e9112408dbeac9b03c7bd89cdd
+1. Register
+2. Login
+0. Exit
+>
+l
+ Your login token: cd8779486372088fd7f96703c8dde00d507640456eeffbbd641d2008a3788f3ca100fe256858613e5e0e43a734584f84
+1. Register
+2. Login
+0. Exit
+>
+m
+ Your login token: 2a40c1f1d4f373bebb4e2a2e5692322ca04febcc2bbe4afb252b8cc809bd12f3c92849010507a32f6fdc058bd45549b4
+1. Register
+2. Login
+0. Exit
+>
+n
+ Your login token: 4d0ec3c239d3e6e46f34c37f7d463af6d4227b70fb22d16e28c9d3f91adf40f7fb7f691a1456e4113dc28ddc6d7aa5cf
+1. Register
+2. Login
+0. Exit
+>
+o
+ Your login token: 56d528cdeccf3ef33ee8caae3875cc2679659a7a13d773b52e0330a67389354ed9818325c12bf56680a09d70d7f3985e
+1. Register
+2. Login
+0. Exit
+>
+p
+ Your login token: 358c67b2082fd8366f818a710108e1c728d78552d2834d0c86afd4eaea4bea127961e76d5a9cb1d0b7a86bb5e9fc8867
+1. Register
+2. Login
+0. Exit
+>
+q
+ Your login token: 532fb568a52a1c93bc03cf541ba3fca0500e06ee874c33382b03f79bbcc3ae16b3bd4f3a1305dbfea362feff03fa2c51
+1. Register
+2. Login
+0. Exit
+>
+r
+ Your login token: 7d5661055a80274715c2175c27ef574b8a453f62e85022f9d22226491da0aa40c8cc63c37d2bcd4f1e479ef27431119b
+1. Register
+2. Login
+0. Exit
+>
+s
+ Your login token: e93011dbb0c64b8dd7b347574c3bef6e168601f4cca87917ce81452aa265eddb90073c1870f17394bddad46f855f001a
+1. Register
+2. Login
+0. Exit
+>
+t
+ Your login token: 94f2ea3cad0a8fe20aadd80bb9dbe111ea7e2263e439ab3b7e95ed8c06148edaf9ef7f812ef679655391beb468712569
+1. Register
+2. Login
+0. Exit
+>
+u
+ Your login token: 824fc9ea3970d093da9c62e3c210af962ee6ab71b49ce7fdddbdbf5707f27e3223191f657346d7961915d7ecc8f77032
+1. Register
+2. Login
+0. Exit
+>
+v
+ Your login token: 4c1130d966fce4b1955c0a3d40d6f9948dcf8a664d0fcc2d21d3551c574ea37eb83a71c1ea3958d1781c5f01e6b7a69c
+1. Register
+2. Login
+0. Exit
+>
+w
+ Your login token: 0e74c66368a41282afa1ee893cc26c456b94119fc1ebab9d59d7f0e5b5e7a734eab31aa44b071f974f191df89434d150
+1. Register
+2. Login
+0. Exit
+>
+x
+ Your login token: 7b0cb7cd36a634f628b82dde1dd656b7b78a775e51052fa8cbd6d91557cb9b52f115d0cff1f3665ec21b893d9f8cf657
+1. Register
+2. Login
+0. Exit
+>
+y
+ Your login token: 21c23e53c69b7e840666e81a9e7221d9e658710a5d883348d664bca6c25dbd1b0060ea733d6b19f8a9a0d7529d89474d
+1. Register
+2. Login
+0. Exit
+>
+z
+ Your login token: c0c2767dc553f33943cc0df4d5d33daab597277b3854d82a07fe78001915d7bdcdad4bc7d63a75283e1db00ebc5bb4bb
+1. Register
+2. Login
+0. Exit
+>
+A
+ Your login token: 25c6b89335107b8724bcc631bdba16a6b2b58b0d853341eec80354ae9f1238d64313e51e5fdb0f1695712a33ee690661
+1. Register
+2. Login
+0. Exit
+>
+B
+ Your login token: 1f536def6871bc91ed92026d9c2e33a8185938b7971138f98c75af05ec99a8f00b468510fee675b981e234b52130e410
+1. Register
+2. Login
+0. Exit
+>
+C
+ Your login token: 0cf8463b9cf7758aff82b3e7cd4adc5652769e7d4c4cad2b7c383da7b10769262dcab6eb0f308323fd5ba4e91b08ee1f
+1. Register
+2. Login
+0. Exit
+>
+D
+ Your login token: f87a08f9ef0e665ed1f48627a8e3f5432ac19c74824bd2e7a3344f63725654f600e0181e5336a66db3129ab87b63c1ac
+1. Register
+2. Login
+0. Exit
+>
+E
+ Your login token: a385700daec24357cd368386f377fc6b390a0a820d9bac440a4fc4db74bce13f739669041027820f59eaae538b2f26a4
+1. Register
+2. Login
+0. Exit
+>
+F
+ Your login token: a5eea2ff258136717e51e37e1448b56134f1b5f151f204cac587f91648de359ca34531b59734622e4035a112445c55ed
+1. Register
+2. Login
+0. Exit
+>
+G
+ Your login token: f77c79a7e22dd7510a5916a8e704e871fd5b22de69993a10934ddca756bc6fa327c08e7310f25af9f9a45d07966541f7
+1. Register
+2. Login
+0. Exit
+>
+H
+ Your login token: c031ed352ea472c55b15819084d97afc6a2d90389b423907ff8475195b1ca0175753006c915b998259f6b13bccbcb872
+1. Register
+2. Login
+0. Exit
+>
+I
+ Your login token: ff86f89d87daa7be6fdd494387dcb49ad48dbaf3e1400215ca30fc61e2d44795fea7db8c5c03d0928e53db07e7785d58
+1. Register
+2. Login
+0. Exit
+>
+J
+ Your login token: 3cbdc259aa77311ba248f567166655cc0764ebf203dc3eefb03af34d912d476cbfaef61ff06cad6a2b3f5c277a0fc20a
+1. Register
+2. Login
+0. Exit
+>
+K
+ Your login token: d8ef087640b989b0c386b2405e3e3965f99493b4eb78cd14a3d97e89cd9e416ab8425a3a2c3193b187d69813f58195c8
+1. Register
+2. Login
+0. Exit
+>
+L
+ Your login token: 6872792f932d279a4b2f53f58fda4d1efc6c2334690c68eedc99f54d106eb53655d91e3f554b161c8f0e72ecfa2cb2b1
+1. Register
+2. Login
+0. Exit
+>
+M
+ Your login token: 75b70ac7e187b6c71dd47f8568f097754c9ce8769a208696832f3a343311bc405b65d1d7693a010314fb9b026b9b6101
+1. Register
+2. Login
+0. Exit
+>
+N
+ Your login token: a21719b123d797d59a6c2dd8e9541ba98c422790d501522d2c0e2c5e9c20f72dc88a80b8a98e8c6d3f557a8ad67d8bef
+1. Register
+2. Login
+0. Exit
+>
+O
+ Your login token: 24defec24cf1ca04ddc98bcab854e2271c250e910e3d26df5691f8e7d08b07b328a1979ca3ca003c434becf8ce6b5d7e
+1. Register
+2. Login
+0. Exit
+>
+P
+ Your login token: 35cd1b45f14af87f4c340a4d718ab265a0913c3030588055ac6eb33687a7c4b18e56c9703fa9abd0cc821501b54705b3
+1. Register
+2. Login
+0. Exit
+>
+Q
+ Your login token: c6bf5383335c2a4b855c6386d81fe96c17ce0af4972eb6c18cbb01bad817e844c106695098be5a5dbac89c3fc7bc268b
+1. Register
+2. Login
+0. Exit
+>
+R
+ Your login token: d55c03a16d55a9d24c9374f11f606c2825af2b8fa771375946839a6e7d9287e289efd42138bbed56133b0e9ba67492b5
+1. Register
+2. Login
+0. Exit
+>
+S
+ Your login token: 90fb6e72d7efd87319c14a2414ecde9341c1a03d05036cce612dd78c881e058074a7da5550ebb94888a64fc2d78eaba1
+1. Register
+2. Login
+0. Exit
+>
+T
+ Your login token: c2a4b7b4e6aa98670e62c5b6b9c3eb78009c1c3dfada33cd21d80a08f1549942debb2224d9577a2008a60c43483c5b56
+1. Register
+2. Login
+0. Exit
+>
+U
+ Your login token: 96e3cc47a706423b6f207302cb0a665ea30f8ceaaf707da23d5a048d2a0d72727c77239194a9773498f06ead21dea677
+1. Register
+2. Login
+0. Exit
+>
+V
+ Your login token: 13a60bdd3d8440e5d904908e796b8787e4416e750484ca2beb7ed736843809e049cb0ede7944d35488af7e951698eb1e
+1. Register
+2. Login
+0. Exit
+>
+W
+ Your login token: 33e211f5fa1b0140ff29a4ff02705d1a3dbc0f892475ca7879abaf543c877462ead7960a1c38925b192939e2a4eb3b4d
+1. Register
+2. Login
+0. Exit
+>
+X
+ Your login token: 28f1d65c5723647822149c33fc1e8602798de967cb5745c3b593a7a9860792e6255c2f4a690ccc3cbcffde9ef05ea5c2
+1. Register
+2. Login
+0. Exit
+>
+Y
+ Your login token: b0fc2ed303cf222e65e8fe9ebb1c301d3a56a2f9825c2ad50ae73efdf1271d5d227f5343deece22527498fd36b79c6d0
+1. Register
+2. Login
+0. Exit
+>
+Z
+ Your login token: c8c446b07f64cb362e6d505a0217915228ded814fd538488550320d609734470ca5a069f5e85efa0b6a0ced1283426d8
+1. Register
+2. Login
+0. Exit
+>
+!
+ Your login token: b5dc26897476e4339e4085f6bcde55f544f399166d967aff881c45bdfe17a9331518d055cf994690a4e386f578047765
+1. Register
+2. Login
+0. Exit
+>
+"
+ Your login token: 55463172e48dc791da74f717891b978bf985bd8a583a0fb2dc9a5e0764d457c7f0c816b0dd4a13bc5bddc5454864d794
+1. Register
+2. Login
+0. Exit
+>
+#
+ Your login token: 99c2be16c027674fd54eb82de7d03b2a5fa0753601113bc606f7ca6b79fdfe519c0b114d630d645534761e463d1efc79
+1. Register
+2. Login
+0. Exit
+>
+$
+ Your login token: b2165a4873d26cafec04c1a94fedbe55c96605b96d9aee3f5cf3e25917561bc0ab5832fa25802bd2d66b83045388dbe5
+1. Register
+2. Login
+0. Exit
+>
+%
+ Your login token: 8fd2fd745bda162233b0bb55b3e6db51758a8c46239d3bd68794b9f4378de051fd09762a37355aff71bc077b1bd09354
+1. Register
+2. Login
+0. Exit
+>
+&
+ Your login token: 331bb41bec528f3a09a63077ad3f9766638cf95ac5e9e6d275164c06112049b9ba49aa732346c509e4fb403a05eb2f5a
+1. Register
+2. Login
+0. Exit
+>
+'
+ Your login token: 8270ff7bc66e18f933de36f696598471b56ba0aedf1c79b3e290b4e9f2ec98917fc5665320805e3d018ce39f48477ec8
+1. Register
+2. Login
+0. Exit
+>
+(
+ Your login token: f7715266de4db6a1f9ce11371b6b91ad1d862e1a09dc453d4d72b571754b1c0fc6dd26844f6f2b015f25b0204dd4a725
+1. Register
+2. Login
+0. Exit
+>
+)
+ Your login token: 784e554c5b3079859ad00c3202791322062cd9ec4b21b095a5c5cb8f2b5fadf3f3ddf9375f225b294f4382b9f9f2d5d8
+1. Register
+2. Login
+0. Exit
+>
+*
+ Your login token: 1b68b67499748f70541cd0cf59a7923c74edd98417a538824f96a02db7ae519ce49d38a6ac8c1393bf09b06cb70bc410
+1. Register
+2. Login
+0. Exit
+>
++
+ Your login token: 45dbc4ebc8ee99dee28f928895abc3d00de10d0d2e1b5d9ab516688f64111e46e0cf0c9101af860d093d717a72cafeb9
+1. Register
+2. Login
+0. Exit
+>
+,
+ Your login token: 65bf2c279d943efbfb4ee672dbeccb8d2649c594553029c4cc53465c2267a028cb4e8aaa6f31cf5775f529accaebff71
+1. Register
+2. Login
+0. Exit
+>
+-
+ Your login token: 0ca4fe0ba39edf67fb9ebacf17587d3add5f71552261f393ef1cd9d94edecdea1957a308aae0aee59617a046421f70d1
+1. Register
+2. Login
+0. Exit
+>
+.
+ Your login token: 62500b46fff742987a8c1459eb7017ff9c39e7c9f0d8cbf16349982de723f8a1324c42effc902896153bb4d685bf1d22
+1. Register
+2. Login
+0. Exit
+>
+/
+ Your login token: f7e15e69d79a40564a5048e9f71505b27aec2f7fe9933fad03c903e5ae7563571794abff5c58e1646bce37a42199bd87
+1. Register
+2. Login
+0. Exit
+>
+:
+ Your login token: 3ecb490ad1d3153aa789c6b06a84fa54085ab0d45d84c64975d0a40a2b7593f80dc402118effec1afc8e2c202b69f37b
+1. Register
+2. Login
+0. Exit
+>
+;
+ 1. Register
+2. Login
+0. Exit
+>
+<
+ Your login token: 44c0b2b2aa2258fd98ece0dcc2b8239142f2fa65f527e7b58df445d2c5e7c73631f893a975007e331decd5344bc38883
+1. Register
+2. Login
+0. Exit
+>
+=
+ Your login token: d7b36b727328cb13d784f820a00076b7b1cedd9d04edcba858d7f8625ddf6e4e3bc5f1de3b239a8dee9db06d9e21bd9c
+1. Register
+2. Login
+0. Exit
+>
+>
+ Your login token: ef2cdc013c9848b0fc05eda7a9e8882d6591707f511d12e10dd499b41df7e2bb5ab4d190d10d7574f474ab2bacdb9559
+1. Register
+2. Login
+0. Exit
+>
+?
+ Your login token: d158429c94bab7198498083c67e83ebbaf4f04ddcabb527c7ebb996092ce17a7bdf8aec1fdfa0ef3f70c4cc2e832b903
+1. Register
+2. Login
+0. Exit
+>
+@
+ Your login token: 691440480f48b7797acb09a942844d0bb217d504246402b95705d11756c4808aec98d61e462b38c5c98b9704b58bad23
+1. Register
+2. Login
+0. Exit
+>
+[
+ Your login token: de7edb16acb967e50a82d9632efcbed2473b37700f3819a922bdd9ab5865658a7891ff176edbc89273d85cad61f0a813
+1. Register
+2. Login
+0. Exit
+>
+\
+ Your login token: 849af90b007c47daad077b4de032989ce4f5717bae24d70499912386741cb89f0562a8242782f00d319a277798cefd51
+1. Register
+2. Login
+0. Exit
+>
+]
+ Your login token: 32675dbc7b42ecbbcebe56a47f1f4449a61f3fd3b24e547e291a16256ffd5370480c813b8702fca0211eb38510a3fe7e
+1. Register
+2. Login
+0. Exit
+>
+^
+ Your login token: a50ec6d22c076144eb7564393c64074a7d4f4988444abc8c6a37a70121f4b117725a51276658e4f2aa9bdc7368e42545
+1. Register
+2. Login
+0. Exit
+>
+_
+ Your login token: a0437f7285ee6c01547b6371b73fa47bdc618b0f2a63a8c39ef166728dbbe6d81cf1c95e1334ad880a6eb6fb2fa66c21
+1. Register
+2. Login
+0. Exit
+>
+`
+ Your login token: 54cf450b30eae9f64856de0a49f38cef6816f2f0d2fffc48ec4721befdfe1f05f9eb597949b7748d4e336228adda7c1c
+1. Register
+2. Login
+0. Exit
+>
+{
+ Your login token: 9d9788c1b4d81017a57983875c9e2a50354da834c9a11578c10545d8ba4ee918d1ad86b1dbe7fb445890a3f92708dd49
+1. Register
+2. Login
+0. Exit
+>
+|
+ Your login token: bc3fefc3135c81cf0c1eb8cb48df97c224efc2d543960847d4893432a327f0c7dee5fb2848734421591dfab0dcd9b59a
+1. Register
+2. Login
+0. Exit
+>
+}
+ Your login token: 1119d663306ec596c22029efdfa5e87ec86390e34deac07fbfecf08456d7af495c54439358a3f3694daa8904044eb36b
+1. Register
+2. Login
+0. Exit
+>
+0
+ Your login token: 4938c93f1997a598c3741d0cb805d4d27a776ec3478e39cf6d47eadb2b5ee2f7c0b0db41ada4017cbe6ecde200dcce72
+1. Register
+2. Login
+0. Exit
+>
+1
+ Your login token: 68aaa369c61a0e77c0277392ae3cec156a8d4a74cf4e00064a604651f4660f41bf87c5ee54f09e849540f21cc918e4b5
+1. Register
+2. Login
+0. Exit
+>
+2
+ Your login token: e32ff844ed1e44afa355f06c5c9f25ca420df8e8bcaf65c6e0dd5f81f92f3ffc8c74a26ea954393725b418268d3f2e5b
+1. Register
+2. Login
+0. Exit
+>
+3
+ Your login token: aff12bc7a51dbb417613346a3004edcf670eb723de90c64f6df2b7f6e02f2166cec96c1e14448d114a7d329c4883908c
+1. Register
+2. Login
+0. Exit
+>
+4
+ Your login token: e9cf00839452bf18e2e0a5f20fdddefcbe6f582acb2ebdb24905a05655b6fb18cd7d1b48d7de075ecec15085c514b705
+1. Register
+2. Login
+0. Exit
+>
+5
+ Your login token: 00c07ef4052e897f7cd2fae06f3c07590838960ed397393b67b9c1817cc3808489cd738198b62749d025e5dd59301a8b
+1. Register
+2. Login
+0. Exit
+>
+6
+ Your login token: 02ea3cb7f22179597bd6b8ea4f0a11a7ce01bae082c05af9e8af631bfab85560ec9a19aeb20f9d709b69d85c7e8e5d6a
+1. Register
+2. Login
+0. Exit
+>
+7
+ Your login token: 6fb64d361a7c3d95bb7cab3d8b9a3cea1f17ef47299b4636cf62b9e75d348e222e81e50abde721bbe20fac0c61512438
+1. Register
+2. Login
+0. Exit
+>
+8
+ Your login token: af48cab8f10aa3ae1b05387d48bbad1a3d47047e30b8ee900ee2ed0508c55dc0eeab8f9a5b6cd7c858ba685f187f9fc7
+1. Register
+2. Login
+0. Exit
+>
+9
+ Your login token: 40557af21f2be8e3b4999f9a2d64363073533f49363adf1c1658971daca87a2ed8d681674af7ed457ead65519b8d2ba0
+1. Register
+2. Login
+0. Exit
+>
+a
+ Your login token: 9e909b8243e9d46de645c3e0a02703a94885ca51437dbca1a9f7cc4f5a06d07ade798b0057845941a7e6cd7cd2035267
+1. Register
+2. Login
+0. Exit
+>
+b
+ Your login token: 0a96e7790c7a5a3e776977106e99ceba4e39f34a876ad2d0282ca7efdc3215fed24015e7a44e7845097086a2ad043cb7
+1. Register
+2. Login
+0. Exit
+>
+c
+ Your login token: 4c33253689a8ebbaa1bd2eafeea4087ad5e8c202b3bb624dcdbc5bc7d8d3394f891b4ec85720484be2d0785c3750eeff
+1. Register
+2. Login
+0. Exit
+>
+d
+ Your login token: 9a2ff097a9cc0ca11dffcbce9b9cb8ad23b6f7ab39f3387a6feb244113cddf8b470c9f8ce5cb237827305c290267658a
+1. Register
+2. Login
+0. Exit
+>
+e
+ Your login token: 7926383fe41304da12ac11879fd7fe2f701021059d35482a5b416529d6a62f5f6f4607021f35360f56b6af58976c8994
+1. Register
+2. Login
+0. Exit
+>
+f
+ Your login token: 0c4e443e9a8d6c46dfd2c562c2be7a6da0b870fde7c1085d07168b9e38a40217a1d17d5f8ecc927c4bf7717916abd502
+1. Register
+2. Login
+0. Exit
+>
+g
+ Your login token: ac397921a3879cace2fbeaf539b936a50b60676941de614aad69d8daa282e71c1d9e4ab82b7b625dd20b7e2d56a0629e
+1. Register
+2. Login
+0. Exit
+>
+h
+ Your login token: 1477310be3dc1ac86ff111970dc0fffc3cefd058d73f14725b097b09588b4d3b5544892a54235a3fa0fc33b65cf528f4
+1. Register
+2. Login
+0. Exit
+>
+i
+ Your login token: faa6c5a0e27571777f1f1ab1d3e115fb94a45e29e43608138a9d2846f56a03653c1b67b9e04417e8c58f92b38de2e405
+1. Register
+2. Login
+0. Exit
+>
+j
+ Your login token: 2de8b655c25c2cfdc1eeac428332f1841107174cf7537ed0f17e346225ef2c2cdbc781d24090482b6543638e73191b65
+1. Register
+2. Login
+0. Exit
+>
+k
+ Your login token: 4ba9062834a1ab41f0a7661b198e693c13a909e38edb71dbd38c1325b723424ccd4882cb83a1d364f1b61d9fbc11f369
+1. Register
+2. Login
+0. Exit
+>
+l
+ Your login token: 4494db56a0ab947c81863f7e0f6a2fff97768d3362b88b2cfe9fdd30475ecbd6d386f06136f5806dcf11d71c72175148
+1. Register
+2. Login
+0. Exit
+>
+m
+ Your login token: 5991b5ad33b5b3c89707d5bdc1fb7ec687caa5512f0a1d6c806b24c6e3e03f08d8deea4d2d20479562ace8c7bebbebb0
+1. Register
+2. Login
+0. Exit
+>
+n
+[*] Closed connection to notadmin.challs.cyberchallenge.it port 9032

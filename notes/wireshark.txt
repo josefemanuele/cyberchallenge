@@ -1,0 +1,2 @@
+# See file comments.
+Statistics > Capture file properties
