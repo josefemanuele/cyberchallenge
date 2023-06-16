@@ -1,0 +1,53 @@
+# Static analysis.
+
+# Use 'ldd' command to list libraries linked from an object file.
+ldd <object file>
+
+# Use 'file' command to view architecture of an object file.
+file <ojectfile>
+
+# Use 'objdump' command to read contents of ELF files.
+
+# List object file sections.
+objdump -h <file>
+
+# Display section contents.
+objdump -s -j <section> <file>
+
+# Use 'strings' to extract text strings from a file.
+strings <file>
+
+# Use ghidra to analyse decompiled and disassembled code.
+
+
+# Dynamic analysis.
+
+# Use 'ltrace' to trace function calls (only for dinamically linked libraries).
+ltrace <./file>
+
+# Use option -e to filter the function calls.
+ltrace -e 'function_name' <./file>
+
+# Use 'strace' to trace function calls from statically linked libraries.
+strace <./file>
+
+# Use gdb to read registers.
+info registers
+
+# Command print to print values.
+# f is the format: x for hex, f for float, d for int. expr is the expression 
+# to be printed.
+print/f expr 
+
+# Use x to examine memory.
+# n number of elements to print.
+# f format, as before.
+# u element dimension: b for bytes, w for words, h for half, g for giant.
+# addr address of memory or register name.
+x/nfu addr
+
+# Set memory values.
+set {type}address = value
+
+# Print variable address.
+p &value
