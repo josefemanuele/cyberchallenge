@@ -1,7 +1,7 @@
 from injection import Inj
 from time import time
 
-inj = Inj('http://web-17.challs.olicyber.it/')
+inj = Inj('http://sqlinjection.challs.cyberchallenge.it/')
 
 dictionary = '0123456789abcdef'
 result = ''
